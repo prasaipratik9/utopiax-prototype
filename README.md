@@ -1,4 +1,4 @@
-# UtopiaX — Trimester Prototype
+# UtopiaX - Trimester Prototype
 
 Static site with **UI kit styling** (Primary `#5811FB`, Secondary `#00F0FF`, Tertiary `#FF4D80`, Neutral `#0F172A`, fonts **Space Grotesk** + **Inter**) and a built-in **admin CMS** so Christina (or other admins) can edit content without a developer.
 
@@ -11,34 +11,35 @@ npm start
 
 Open:
 
-- **Website:** http://localhost:3000  
+- **Website:** http://localhost:3000
 - **Admin CMS:** http://localhost:3000/admin/
+- **Live host:** https://utopiax-prototype-production.up.railway.app/index.html
 
 Default login (change in `config.json`):
 
-- **Username:** `admin`  
+- **Username:** `admin`
 - **Password:** `utopiax-admin`
 
 ## Admin CMS
 
 1. Sign in at `/admin/`
 2. Edit sections in the sidebar (homepage, pages, Xperiences, media, team, contact info)
-3. Click **Save changes** — updates `content.json` immediately on the live site
+3. Click **Save changes** - updates `content.json` immediately on the live site
 
 No code edits needed for everyday content updates.
 
 ## Pages
 
-| URL | Description |
-|-----|-------------|
-| `/` | Homepage |
-| `/openmindx.html` | Speaking |
+| URL                  | Description                |
+| -------------------- | -------------------------- |
+| `/`                  | Homepage                   |
+| `/openmindx.html`    | Speaking                   |
 | `/ideationworx.html` | Ideation & design thinking |
-| `/lumierex.html` | Retreats |
-| `/xperiences.html` | Programs (paginated) |
-| `/media.html` | Blog / media (filterable) |
-| `/about.html` | About, founder, team |
-| `/contact.html` | Contact form |
+| `/lumierex.html`     | Retreats                   |
+| `/xperiences.html`   | Programs (paginated)       |
+| `/media.html`        | Blog / media (filterable)  |
+| `/about.html`        | About, founder, team       |
+| `/contact.html`      | Contact form               |
 
 ## Project structure
 
