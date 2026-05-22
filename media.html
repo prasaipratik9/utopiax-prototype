@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Media | UtopiaX</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body data-page="media" data-public-site>
+  <div id="site-header"></div>
+  <main class="site-main">
+    <section class="page-hero page-hero--media">
+      <div class="container reveal">
+        <p class="eyebrow" data-cms="media.eyebrow">Articles · Video · Audio</p>
+        <h1 data-cms="media.title">Media</h1>
+        <p class="lead" data-cms="media.lead">Innovation, creativity, events, and thought leadership from UtopiaX and Christina Gerakiteys.</p>
+        <div class="media-hero-stats" id="media-stats" aria-label="Media library overview"></div>
+      </div>
+    </section>
+
+    <section class="section section-alt media-spotlight">
+      <div class="container">
+        <header class="section-header reveal">
+          <p class="eyebrow">Featured</p>
+          <h2>Latest highlights</h2>
+          <p>Keynotes, press, and conversations — curated from the UtopiaX archive.</p>
+        </header>
+        <div id="media-spotlight" class="media-spotlight-grid reveal"></div>
+      </div>
+    </section>
+
+    <section class="section media-library">
+      <div class="container">
+        <header class="section-header reveal">
+          <p class="eyebrow">Browse</p>
+          <h2>Full library</h2>
+          <p>Filter by format to find articles, video, and audio.</p>
+        </header>
+        <div class="filter-bar reveal">
+          <button type="button" class="filter-btn is-active" data-media-filter="all">All</button>
+          <button type="button" class="filter-btn" data-media-filter="article">Articles</button>
+          <button type="button" class="filter-btn" data-media-filter="video">Video</button>
+          <button type="button" class="filter-btn" data-media-filter="audio">Audio</button>
+        </div>
+        <p class="media-results-count reveal" id="media-count" aria-live="polite"></p>
+        <div id="media-grid" class="media-grid reveal"></div>
+        <p class="media-empty" id="media-empty" hidden>No items in this category yet.</p>
+      </div>
+    </section>
+
+    <section class="section media-cta-band">
+      <div class="container reveal media-cta-inner">
+        <div>
+          <p class="eyebrow">Stay in the loop</p>
+          <h2>Never miss a keynote or program</h2>
+          <p>Join Xperience Seekers for workshops, retreats, and innovation news.</p>
+        </div>
+        <a href="contact.html" class="btn btn-primary">Get in touch</a>
+      </div>
+    </section>
+  </main>
+  <div id="site-footer"></div>
+  <script src="js/content-store.js"></script>
+  <script src="js/layout.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CMS Dashboard | UtopiaX</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/admin.css" />
+</head>
+<body class="admin-dashboard">
+  <aside class="admin-sidebar">
+    <p class="sidebar-brand">UtopiaX <span>CMS</span></p>
+    <nav id="admin-nav">
+      <button type="button" data-panel="site" class="is-active">Site &amp; contact</button>
+      <button type="button" data-panel="home">Homepage</button>
+      <button type="button" data-panel="openmindx">OpenMindX</button>
+      <button type="button" data-panel="ideationworx">IdeationWorX</button>
+      <button type="button" data-panel="lumierex">LumiereX</button>
+      <button type="button" data-panel="about">About &amp; founder</button>
+      <button type="button" data-panel="contact">Contact page</button>
+      <button type="button" data-panel="experiences">Xperiences</button>
+      <button type="button" data-panel="media">Media</button>
+      <button type="button" data-panel="team">Team</button>
+    </nav>
+    <div class="sidebar-footer">
+      <a href="../index.html" target="_blank">View site ↗</a>
+      <button type="button" id="logout-btn" class="btn btn-outline btn-sm">Log out</button>
+    </div>
+  </aside>
+  <main class="admin-main">
+    <header class="admin-topbar">
+      <h1 id="panel-title">Site &amp; contact</h1>
+      <div class="topbar-actions">
+        <span id="save-status" class="save-status"></span>
+        <button type="button" id="save-btn" class="btn btn-primary">Save changes</button>
+      </div>
+    </header>
+    <div id="admin-panels" class="admin-panels"></div>
+  </main>
+  <script src="../js/admin.js"></script>
+</body>
+</html>

@@ -1,0 +1,429 @@
+{
+  "site": {
+    "footerTagline": "Making the impossible possible, possible",
+    "footerLocation": "Created in NSW, Australia",
+    "phone": "(+61) 425 236 156",
+    "phoneHref": "+61425236156",
+    "email": "info@utopiax.global",
+    "newsletterTitle": "Xperience Seekers",
+    "newsletterDesc": "For the latest programs, events, workshops and news."
+  },
+  "nav": [
+    {
+      "href": "openmindx.html",
+      "label": "OpenMindX"
+    },
+    {
+      "href": "ideationworx.html",
+      "label": "IdeationWorX"
+    },
+    {
+      "href": "lumierex.html",
+      "label": "LumiereX"
+    },
+    {
+      "href": "xperiences.html",
+      "label": "Xperiences"
+    },
+    {
+      "href": "media.html",
+      "label": "Media"
+    },
+    {
+      "href": "about.html",
+      "label": "About"
+    },
+    {
+      "href": "contact.html",
+      "label": "Contact"
+    }
+  ],
+  "social": [
+    {
+      "href": "https://www.linkedin.com/in/christinagerakiteys/",
+      "label": "LinkedIn"
+    },
+    {
+      "href": "https://www.instagram.com/christina_gerakiteys/",
+      "label": "Instagram"
+    },
+    {
+      "href": "https://www.facebook.com/utopiaxglobal",
+      "label": "Facebook"
+    },
+    {
+      "href": "https://twitter.com/utopiaxglobal",
+      "label": "Twitter"
+    },
+    {
+      "href": "https://www.youtube.com/user/ideationatwork",
+      "label": "YouTube"
+    },
+    {
+      "href": "https://vimeo.com/utopiax",
+      "label": "Vimeo"
+    }
+  ],
+  "home": {
+    "heroEyebrow": "Fourth industrial revolution",
+    "heroTitle": "Making the impossible possible possible",
+    "heroLead": "UtopiaX unleashes boundaries around possibility through design thinking, ideation, retreats, and keynotes — putting humans first as we enter the age of the entrepreneur.",
+    "pillarsEyebrow": "Our pillars",
+    "pillarsTitle": "Three ways we work with you",
+    "pillarsDesc": "Speaking, ideation workshops, and transformational retreats — each designed for individuation and real impact.",
+    "pillarOpenMindX": "Keynotes and facilitation that challenge you to dream out loud and change your future.",
+    "pillarIdeationWorX": "Moon shot ideating, design thinking, and strategies to bring ideas to life.",
+    "pillarLumiereX": "Retreats for Body, Mind, Heart and Soul — purpose, presence, and transformation.",
+    "centresEyebrow": "Body · Mind · Heart · Soul",
+    "centresTitle": "Four centres of influence",
+    "centresDesc": "When Home, Work, Passion and Purpose align, the impossible becomes possible.",
+    "featuredEyebrow": "Featured",
+    "featuredTitle": "Upcoming Xperiences",
+    "mediaEyebrow": "From the blog",
+    "mediaTitle": "Recent Media",
+    "ctaTitle": "Ready to add your factor X?",
+    "ctaDesc": "Book a complimentary conversation or join Xperience Seekers for programs, events, and news."
+  },
+  "openmindx": {
+    "eyebrow": "OpenMindX",
+    "title": "Speaking",
+    "lead": "To change the world you have to have vision. Dream out loud, think big, and let ideas flow. Christina delivers keynotes that challenge you to change your future and impact the world.",
+    "body1": "Anything is possible. Christina's keynotes are purposeful, honest and real — interactive and entertaining. She has presented at Vivid Ideas, SingularityU Australia Summit, Creative Innovation, PCOC, and other national and international events.",
+    "body2": "Christina designs customised presentations by request. Book a complimentary appointment to discuss your specific needs.",
+    "quote": "Christina is an Entrepreneurial Futurist and Business Accelerator. She is a gifted mentor who can future proof your business. — Louise Karch, Namefluence",
+    "keynotesTitle": "Featured keynotes",
+    "keynotes": [
+      {
+        "tag": "Summit",
+        "title": "SingularityU Australia Summit",
+        "desc": "Top speakers on exponentially accelerating technologies."
+      },
+      {
+        "tag": "International",
+        "title": "Creativity, Innovation & Business 101",
+        "desc": "Encourage teams to think creatively, Find the Gaps, and innovate."
+      },
+      {
+        "tag": "International",
+        "title": "Don't Ask Don't Get — The Science Of Askology",
+        "desc": "Embed Askology into your daily behaviours for success."
+      }
+    ]
+  },
+  "ideationworx": {
+    "eyebrow": "IdeationWorX",
+    "title": "Ideation & Design Thinking",
+    "lead": "Ideas are the source of all change. We facilitate moon shot ideating sessions and develop strategies to bring ideas to life.",
+    "designTitle": "Design Thinking",
+    "designBody": "Design thinking draws on diverse knowledge and technology to create solutions from the end user's perspective. During the process, imagination is liberated around the pivotal question: What do humans need?",
+    "moonshotTitle": "Moon Shot Ideating",
+    "moonshotBody": "Science fiction and futurism emerge from ideas. What was once imagination becomes reality. We encourage teams to think big and make things happen.",
+    "programsTitle": "Programs",
+    "programs": [
+      "Design Thinking Workshops (mobile — we come to you)",
+      "Design Thinking Bootcamp — Newcastle",
+      "Your Relevant Future — 7 workshops over 6 months",
+      "Innovation X-Change & student exchange programs"
+    ]
+  },
+  "lumierex": {
+    "eyebrow": "LumiereX",
+    "title": "Retreats",
+    "lead": "Retreats and Xperiences that inspire growth of Body, Mind, Heart and Soul. Each Xperience is unique, focused on the individuation of every participant.",
+    "body1": "Retreats are inclusive of research on the head brain, heart brain and gut brain; intuition; and the science behind \"we are what we think.\" Our focus: purpose and presence, intent and impact, reflection and revolution.",
+    "body2": "We are the sum of our four centres — when aligned, the impossible becomes possible. Our goals: Transformation, Mind Shifts, and Connection with each other and our environment.",
+    "retreatsTitle": "Featured retreats",
+    "retreats": [
+      {
+        "tag": "Philippines",
+        "title": "Unleash Possibility",
+        "location": "Philippines",
+        "status": "Bookings open",
+        "desc": "For those with fire in their belly. Village Empowerment Programs for legacy through serving others.",
+        "cta": "Enquire"
+      },
+      {
+        "tag": "Greece",
+        "title": "Unlocking Creativity & Innovation",
+        "location": "Ithaca, Greece",
+        "status": "Expressions of interest",
+        "desc": "Amplify potential, leadership, collaboration — reset with yoga.",
+        "cta": "Expressions of interest"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "Our mission",
+    "title": "About UtopiaX",
+    "lead": "We are entering the fourth industrial revolution. At UtopiaX, we unleash boundaries around possibility to make the impossible possible.",
+    "utopicTitle": "A Utopic Society",
+    "utopicP1": "UtopiaX seeks to connect individuals, organisations and movements to create a world that lives with kindness and compassion. We offer Xperiential programs, workshops and retreats, celebrating individuation and embodying community.",
+    "utopicP2": "Our goal is to create Utopia — harmony, compassion, contribution, and belonging. Each of us adds our own factor X.",
+    "howTitle": "How we do it",
+    "howCards": [
+      {
+        "title": "Design Thinking",
+        "desc": "Human-centred innovation from the question: What do humans need?"
+      },
+      {
+        "title": "Ideation",
+        "desc": "Moon shot ideating and strategies to bring ideas to life."
+      },
+      {
+        "title": "Start With Why",
+        "desc": "Your Road to UtopiaX starts with your Why — flow follows."
+      },
+      {
+        "title": "Creativity",
+        "desc": "Storytelling and improvisation for collaborative innovation."
+      }
+    ],
+    "valuesTitle": "Our values",
+    "values": [
+      "We act with transparency",
+      "We keep it real and raw and are accountable to ourselves and our community",
+      "We take calculated risks to realise our vision",
+      "We are challengers of the status quo",
+      "We constantly push the boundaries of possibility"
+    ],
+    "founderEyebrow": "Founder",
+    "founderName": "Christina Gerakiteys",
+    "founderUrl": "https://www.christinagerakiteys.global/",
+    "founderBio1": "Christina is a creativity and innovation catalyst. Founder of UtopiaX, she speaks at SingularityU Australia Summit, Vivid Ideas, and Creative Innovation; produces the Hunter Innovation Festival; and lectures in Business, Innovation and Entrepreneurship.",
+    "founderBio2": "Graduate of Singularity University's Executive Program. Her purpose: ignite hearts and minds to what is possible.",
+    "founderLinkLabel": "Visit Christina's website →",
+    "teamTitle": "Meet the team"
+  },
+  "contact": {
+    "eyebrow": "Xperience seeker?",
+    "title": "Contact",
+    "lead": "UtopiaX is created in NSW, Australia. Book a complimentary appointment or send an enquiry.",
+    "heading": "Get in touch",
+    "followNote": "Follow us on LinkedIn, Instagram, Facebook, Twitter, YouTube, and Vimeo — links in the footer."
+  },
+  "xperiences": {
+    "eyebrow": "Programs & events",
+    "title": "Xperiences",
+    "lead": "Retreats, workshops, summits, and keynotes — collaborative programs unique in design."
+  },
+  "media": {
+    "eyebrow": "Articles · Video · Audio",
+    "title": "Media",
+    "lead": "Innovation, creativity, events, and thought leadership from UtopiaX and Christina Gerakiteys."
+  },
+  "experiences": [
+    {
+      "title": "SingularityU Australia Global Impact Challenge",
+      "tag": "Challenge",
+      "location": "Australia",
+      "status": "Applications open",
+      "desc": "What moonshot can you imagine that would solve a global grand challenge using exponential technology?"
+    },
+    {
+      "title": "SingularityU Australia Summit",
+      "tag": "Summit",
+      "location": "Australia",
+      "status": "Featured",
+      "desc": "The world's top speakers and experts on exponentially accelerating technologies."
+    },
+    {
+      "title": "Unleash Possibility — Philippines Retreat",
+      "tag": "Retreat",
+      "location": "Philippines",
+      "status": "Bookings open",
+      "desc": "For those with fire in their belly. Village Empowerment Programs for legacy through service."
+    },
+    {
+      "title": "Unlocking Creativity and Innovation — Greek Island Retreat",
+      "tag": "Retreat",
+      "location": "Ithaca, Greece",
+      "status": "Expressions of interest",
+      "desc": "Amplify potential, leadership, collaboration, and reset with yoga."
+    },
+    {
+      "title": "Design Thinking Workshops",
+      "tag": "Workshop",
+      "location": "Mobile — we come to you",
+      "status": "Ongoing",
+      "desc": "Creative problem solving for SMEs and corporates. 100% customer centric."
+    },
+    {
+      "title": "Leadership X-Change",
+      "tag": "Program",
+      "location": "Newcastle",
+      "status": "Enquiries welcome",
+      "desc": "Examine what kind of leader you are and how you best serve family, organisation, and planet."
+    },
+    {
+      "title": "Your Relevant Future",
+      "tag": "Series",
+      "location": "Yours or ours",
+      "status": "7 workshops / 6 months",
+      "desc": "Upskilling for accountants, lawyers, and finance professionals."
+    },
+    {
+      "title": "Innovation Student X-Change",
+      "tag": "Exchange",
+      "location": "Newcastle · Reno · East Coast USA",
+      "status": "Enquire now",
+      "desc": "Entrepreneurship exchange between University of Newcastle and University of Nevada."
+    },
+    {
+      "title": "Design Thinking Bootcamp",
+      "tag": "Bootcamp",
+      "location": "Newcastle",
+      "status": "Dates coming soon",
+      "desc": "Proven problem-solving protocol focused on solutions from the customer perspective."
+    },
+    {
+      "title": "ExpONEntial — The Road To Infinity",
+      "tag": "Keynote",
+      "location": "International",
+      "status": "Keynote",
+      "desc": "We are drivers and reactors to change. What if we fearlessly embraced it?"
+    },
+    {
+      "title": "Creativity, Innovation & Business 101",
+      "tag": "Keynote",
+      "location": "International",
+      "status": "Keynote",
+      "desc": "Encourage teams to think creatively, Find the Gaps, and innovate solutions."
+    },
+    {
+      "title": "Don't Ask Don't Get — The Science Of Askology",
+      "tag": "Keynote",
+      "location": "International",
+      "status": "Keynote",
+      "desc": "Traits of successful people and organisations. Embed Askology into daily behaviours."
+    },
+    {
+      "title": "The 'I' Behind The WHY",
+      "tag": "Keynote",
+      "location": "International",
+      "status": "Keynote",
+      "desc": "Finding purpose and inspiring impact in an age of passion and meaning."
+    },
+    {
+      "title": "Global Impact: A Future by Design",
+      "tag": "Event",
+      "location": "Breakfast event",
+      "status": "Community",
+      "desc": "Biotech, agtech, fintech, medtech, AI — from the SingularityU community."
+    },
+    {
+      "title": "Find Your Why",
+      "tag": "Workshop",
+      "location": "Workshop",
+      "status": "Start With Why",
+      "desc": "Your Why is the benchmark for everything you do — individual or organisation."
+    }
+  ],
+  "mediaItems": [
+    {
+      "title": "SingularityU Australia Summit — Opening Keynote",
+      "date": "Feb 2025",
+      "category": "Innovation",
+      "type": "video",
+      "excerpt": "Christina on exponential technologies, human-centred change, and what leaders can do now."
+    },
+    {
+      "title": "Vivid Ideas — Dream Out Loud",
+      "date": "Jan 2025",
+      "category": "Creativity",
+      "type": "article",
+      "excerpt": "Why imagination is the first technology — and how teams can practice moonshot thinking daily."
+    },
+    {
+      "title": "The Science of Askology — Podcast",
+      "date": "Dec 2024",
+      "category": "Leadership",
+      "type": "audio",
+      "excerpt": "A conversation on embedding bold asks into culture, boards, and entrepreneurial teams."
+    },
+    {
+      "title": "Creative Innovation Global — Panel Recap",
+      "date": "Nov 2024",
+      "category": "Events",
+      "type": "video",
+      "excerpt": "Highlights from the international panel on tech ethics, foresight, and responsible innovation."
+    },
+    {
+      "title": "Design Thinking in the Enterprise",
+      "date": "Oct 2024",
+      "category": "Workshops",
+      "type": "article",
+      "excerpt": "Practical protocols for customer-centric problem solving inside large bureaucracies."
+    },
+    {
+      "title": "Factor X — Fireside Chat",
+      "date": "Sep 2024",
+      "category": "Entrepreneurship",
+      "type": "audio",
+      "excerpt": "Purpose, passion, and the 'I' behind your why — audio from a leadership retreat series."
+    },
+    {
+      "title": "Hunter Innovation Festival — Behind the Scenes",
+      "date": "Aug 2024",
+      "category": "Community",
+      "type": "video",
+      "excerpt": "Producing a regional innovation festival: partnerships, stages, and stories that stuck."
+    },
+    {
+      "title": "Global Impact Challenge — Founder Interview",
+      "date": "Jul 2024",
+      "category": "Innovation",
+      "type": "article",
+      "excerpt": "What moonshot ideas need at the earliest stage — mentorship, metrics, and momentum."
+    },
+    {
+      "title": "Leadership Weekly — Cover Story",
+      "date": "Jun 2024",
+      "category": "Press",
+      "type": "article",
+      "excerpt": "Profile on navigating uncertainty with practical foresight and a bias toward action."
+    },
+    {
+      "title": "PCOC Keynote — ExpONEntial Futures",
+      "date": "May 2024",
+      "category": "Keynotes",
+      "type": "video",
+      "excerpt": "We are drivers and reactors to change — reframing fear into fuel for transformation."
+    },
+    {
+      "title": "Innovation Mindsets — Audio Series Ep. 1",
+      "date": "Apr 2024",
+      "category": "Ideation",
+      "type": "audio",
+      "excerpt": "Introducing the mindsets that help teams move from ideas to experiments faster."
+    },
+    {
+      "title": "Tech Insight Daily — Guest Column",
+      "date": "Mar 2024",
+      "category": "Trends",
+      "type": "article",
+      "excerpt": "Three signals every board should watch in the fourth industrial revolution."
+    }
+  ],
+  "team": [
+    {
+      "name": "Christina Gerakiteys",
+      "role": "Founder / UtopiaX",
+      "bio": "Creativity and innovation catalyst. SingularityU graduate, Hunter Innovation Festival producer, sought-after keynote speaker."
+    },
+    {
+      "name": "Raz O'Connor",
+      "role": "Ronnoco — Brand Design",
+      "bio": "25+ years in user-centric branding and digital experiences. London to Australia."
+    },
+    {
+      "name": "Christopher Veltheim",
+      "role": "Course Rebel — CEO",
+      "bio": "Entrepreneur and software leader behind Launch Pads and custom innovation solutions."
+    },
+    {
+      "name": "Hayley Neil",
+      "role": "Craftable — Projects & Podcasts",
+      "bio": "Startup ecosystem project manager and podcast producer across SingularityU and WeWork Labs."
+    }
+  ]
+}

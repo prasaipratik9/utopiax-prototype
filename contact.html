@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact | UtopiaX</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body data-page="contact" data-public-site>
+  <div id="site-header"></div>
+  <main class="site-main">
+    <section class="page-hero">
+      <div class="container reveal">
+        <p class="eyebrow" data-cms="contact.eyebrow">Xperience seeker?</p>
+        <h1 data-cms="contact.title">Contact</h1>
+        <p class="lead" data-cms="contact.lead">Book a complimentary appointment.</p>
+      </div>
+    </section>
+    <section class="section">
+      <div class="container contact-layout reveal">
+        <div>
+          <h2 style="font-family: var(--font-display); margin-top: 0;" data-cms="contact.heading">Get in touch</h2>
+          <div class="contact-info">
+            <a href="mailto:info@utopiax.global" data-cms="site.email" data-cms-href-path="site.email" data-cms-mailto="true">info@utopiax.global</a>
+            <a href="tel:+61425236156" data-cms-href-path="site.phoneHref" data-cms-tel="true" data-cms="site.phone">(+61) 425 236 156</a>
+          </div>
+          <p style="color: var(--text-muted); margin-top: 2rem;" data-cms="contact.followNote">Follow us in the footer.</p>
+        </div>
+        <form class="contact-form" id="contact-form" novalidate>
+          <div><label for="name">Name *</label><input type="text" id="name" name="name" required /></div>
+          <div><label for="email">Email *</label><input type="email" id="email" name="email" required /></div>
+          <div><label for="interest">I'm interested in</label>
+            <select id="interest" name="interest">
+              <option value="">Select…</option>
+              <option>OpenMindX — Speaking</option>
+              <option>IdeationWorX — Workshops</option>
+              <option>LumiereX — Retreats</option>
+              <option>Xperiences — Programs</option>
+              <option>General enquiry</option>
+            </select>
+          </div>
+          <div><label for="message">Message *</label><textarea id="message" name="message" required></textarea></div>
+          <button type="submit" class="btn btn-primary">Send enquiry</button>
+          <p class="form-message" id="contact-message" hidden></p>
+        </form>
+      </div>
+    </section>
+  </main>
+  <div id="site-footer"></div>
+  <script src="js/content-store.js"></script>
+  <script src="js/layout.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

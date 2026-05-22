@@ -1,0 +1,13 @@
+{
+  "name": "utopiax-prototype",
+  "version": "1.0.0",
+  "description": "UtopiaX website prototype with admin CMS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

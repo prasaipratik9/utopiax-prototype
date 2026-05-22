@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin Login | UtopiaX CMS</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/admin.css" />
+</head>
+<body class="admin-login-page">
+  <div class="login-card">
+    <p class="login-eyebrow">UtopiaX CMS</p>
+    <h1>Admin sign in</h1>
+    <p class="login-hint">For Christina and authorised admins to edit site content.</p>
+    <p class="login-credentials">Default sign-in: <strong>admin</strong> / <strong>utopiax-admin</strong> (change in <code>config.json</code>). Works with Live Server or <code>npm start</code>.</p>
+    <form id="login-form">
+      <label for="username">Username</label>
+      <input type="text" id="username" name="username" autocomplete="username" required />
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password" autocomplete="current-password" required />
+      <button type="submit" class="btn btn-primary">Sign in</button>
+      <p class="form-message" id="login-message" hidden></p>
+    </form>
+    <a href="../index.html" class="back-link">← Back to website</a>
+  </div>
+  <script src="../js/admin.js"></script>
+</body>
+</html>
